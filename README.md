@@ -1,8 +1,10 @@
 On Steam:
 
   Available:
+  
   Space Beastz (CGDC Community Game) (Free)
-  Dreams and Nightmares (CGDC Community Game) (Free)
+  
+  Dreams and Nightmares (CGDC Community Game) (Free):
   Foothold (CGDC Community Game) (Free)
   The Anointed: David Saves Keilah (IDM Interactive) (Free)
   FIVE: Guardians of David (Kingdom Games)
