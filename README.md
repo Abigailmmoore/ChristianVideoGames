@@ -11,7 +11,7 @@ On Steam:
   Adam’s Venture Chronicles (Vertigo Games)
   Adam’s Venture: Origins (Vertigo Games)
   G Prime (Soma Games)
-  The Reluctant Redemption of Verity Lux (Soma Games) (Just released, 25% off until Nov 22)
+  The Reluctant Redemption of Verity Lux (Soma Games) (Just released, 25% off until Nov 22, Mature Themes/Content)
   Adventureland XL (Clopas LLC) (Early Access)
   Adventures of the Old Testament – The Bible Video Game (ROKiT Control)
   That Dragon, Cancer (Numinous Games)
