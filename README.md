@@ -27,6 +27,7 @@ On Steam:
   Edmund Puzzle and the Mystery of the Sacred Relics (Transcender Studios, Inc)
 
   In development:
+  
   Gate Zero (Bible X) (Demo)
   One of 500 (Lightword Productions GmbH)
   Cede (Barehand) (Demo)
@@ -39,6 +40,7 @@ On Steam:
 App Store:
 
   Available:
+  
   Truplay (Truplay Games)
   Lightgliders (Lightgliders)
   Guardians of Ancora (Scripture Union)
