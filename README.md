@@ -8,7 +8,7 @@ On Steam:
   
   Foothold (CGDC Community Game) (Free): "In this VR tower defense game, protect your community of survivors from the corrupting forces of Malice. Harness your gravity glove to collect and sling scraps, construct turrets, and guard the builders as they repair the wall."
   
-  The Anointed: David Saves Keilah (IDM Interactive) (Free) "Anointed: DSK is a single player, 3rd person action/adventure game. As David, the player can run, climb, scale walls, swing from ropes and ride a horse on the journey through ancient Judah - using Stealth, Combat and Strategy to fulfill God's plan and save the people of Keilah from the Philistines.
+  The Anointed: David Saves Keilah (IDM Interactive) (Free) "Anointed: DSK is a single player, 3rd person action/adventure game. As David, the player can run, climb, scale walls, swing from ropes and ride a horse on the journey through ancient Judah - using Stealth, Combat and Strategy to fulfill God's plan and save the people of Keilah from the Philistines."
   
   FIVE: Guardians of David (Kingdom Games)
   FIVE: Champions of Canaan (Kingdom Games)
