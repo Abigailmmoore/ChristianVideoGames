@@ -46,7 +46,7 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 "In a region on the brink of endless war, tradition chose the weapon you wield. Your sworn allegiance compels you to fight. Honor your father’s legacy. Become a true Champion of Canaan." https://store.steampowered.com/app/492870/FIVE_Champions_of_Canaan/
 
-**Exodus Vigil (BibleByte Games)**
+**Exodus Vigil (BibleByte Games) (Early Access)**
 
 ![image](https://github.com/user-attachments/assets/93a4b69c-37d2-4a7d-afc8-ca14699cc158)
 
@@ -74,12 +74,32 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 ![image](https://github.com/user-attachments/assets/4d95cceb-954c-4335-86a9-85380c306566)
 
-"Unravel the mystery behind the disappearance of Druhyus' favorite celebrity playboy, Walker Kahmenos. Join investigative journalist Verity Lux, in this interactive fiction title and follow leads, conduct interviews, and submit your findings as you seek out the truth - before it's too late." (Mature Themes/Content)
- 
-  Adventures of the Old Testament – The Bible Video Game (ROKiT Control)
-  That Dragon, Cancer (Numinous Games)
-  Area Man Lives (Numinous Games) (VR)
-  Jasper Vice: Legends Untold (Soltorch Games)
+"Unravel the mystery behind the disappearance of Druhyus' favorite celebrity playboy, Walker Kahmenos. Join investigative journalist Verity Lux, in this interactive fiction title and follow leads, conduct interviews, and submit your findings as you seek out the truth - before it's too late." (Mature Themes/Content) https://store.steampowered.com/app/2169580/The_Reluctant_Redemption_of_Verity_Lux/
+
+**Adventures of the Old Testament – The Bible Video Game (ROKiT Control)**
+
+![image](https://github.com/user-attachments/assets/06a677ae-0089-40d9-86d8-e16f489b20cf)
+
+"Experience the Bible in a new, interactive way. Read, Watch, and Play through the Scriptures in this action-adventure faith-based game!" https://store.steampowered.com/app/1941510/Adventures_of_the_Old_Testament__The_Bible_Video_Game/
+
+**That Dragon, Cancer (Numinous Games)**
+
+![image](https://github.com/user-attachments/assets/cbcb0991-cff4-45f4-afd2-7dcf0f2b4cf9)
+
+"An immersive, narrative videogame that retells Joel Green’s 4-year fight against cancer through about two hours of poetic, imaginative gameplay that explores themes of faith, hope and love." https://store.steampowered.com/app/419460/That_Dragon_Cancer/
+
+**Area Man Lives (Numinous Games) (VR)**
+
+![image](https://github.com/user-attachments/assets/861349be-0d7c-4493-ada3-a38787a46826)
+
+"AREA MAN LIVES. Or does he? If you could join a radio drama already in progress, talk to the characters and interact with the environments the story painted in your mind, you might find yourself in the world of the area man. A quirky radio drama unfolds around you in VR while you do your best to keep the radio station humming along as its new DJ. You record commercials, interview callers and try your best to piece together how your actions inside the station impact your listening audience in scenarios so wild they can only live in your imagination."* https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/
+
+**Jasper Vice: Legends Untold (Soltorch Games)**
+
+![image](https://github.com/user-attachments/assets/99da69a0-d4b3-42b9-8231-ec1e3dda2b2a)
+
+"Soar, dive, and explore the floating islands as a young Gryphon in this flying fantasy adventure. Delve into the lore and discover what it means to be a Voyager." https://store.steampowered.com/app/1919310/Jasper_Vice_Legends_Untold/
+
   DvG: Conquering Giants (Immersive History) (VR)
   Sainthood (Bisong Taiwo) (Catholic)
   To Light: Ex Umbra (Branch Games)
@@ -90,7 +110,7 @@ Disclaimer: I have not personally played many of these games, and am not necessa
   Super 3D Noah's Ark (Wisdom Tree)
   Flood: The Prequel (Alkain Studios LLC)
   Adventureland XL (Clopas LLC) (Early Access)
-
+Heroes of Issachar (Blue Mana) (Early Access)
   In development:
   
   Gate Zero (Bible X) (Demo)
