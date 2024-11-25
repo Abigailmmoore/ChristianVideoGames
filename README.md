@@ -1,3 +1,5 @@
+Disclaimer: I have not personally played many of these games, and am not necessarily recommending any of them.
+
 ## On Steam:
 
 ### Available:
