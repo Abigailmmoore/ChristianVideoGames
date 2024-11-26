@@ -88,11 +88,11 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 "An immersive, narrative videogame that retells Joel Green’s 4-year fight against cancer through about two hours of poetic, imaginative gameplay that explores themes of faith, hope and love." https://store.steampowered.com/app/419460/That_Dragon_Cancer/
 
-**Area Man Lives (Numinous Games) (VR)**
+**Area Man Lives (Numinous Games) (VR)** *
 
 ![image](https://github.com/user-attachments/assets/861349be-0d7c-4493-ada3-a38787a46826)
 
-"AREA MAN LIVES. Or does he? If you could join a radio drama already in progress, talk to the characters and interact with the environments the story painted in your mind, you might find yourself in the world of the area man. A quirky radio drama unfolds around you in VR while you do your best to keep the radio station humming along as its new DJ. You record commercials, interview callers and try your best to piece together how your actions inside the station impact your listening audience in scenarios so wild they can only live in your imagination."* https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/
+"AREA MAN LIVES. Or does he? If you could join a radio drama already in progress, talk to the characters and interact with the environments the story painted in your mind, you might find yourself in the world of the area man. A quirky radio drama unfolds around you in VR while you do your best to keep the radio station humming along as its new DJ. You record commercials, interview callers and try your best to piece together how your actions inside the station impact your listening audience in scenarios so wild they can only live in your imagination." https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/
 
 **Jasper Vice: Legends Untold (Soltorch Games)**
 
@@ -100,11 +100,36 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 "Soar, dive, and explore the floating islands as a young Gryphon in this flying fantasy adventure. Delve into the lore and discover what it means to be a Voyager." https://store.steampowered.com/app/1919310/Jasper_Vice_Legends_Untold/
 
-  DvG: Conquering Giants (Immersive History) (VR)
-  Sainthood (Bisong Taiwo) (Catholic)
-  To Light: Ex Umbra (Branch Games)
-  In His Time
-  Dear Friend (Transcender Studios, Inc)
+**DvG: Conquering Giants (Immersive History) (VR)**
+
+![image](https://github.com/user-attachments/assets/66aec2a6-7d2c-4f20-a640-d59cee39ac0d)
+
+"DvG is an imaginative twist on the classic story of David vs Goliath where you are the shepherd boy, armed with a simple, yet powerful sling, facing off versus the giant Goliath and all his minions." https://store.steampowered.com/app/1462540/DvG_Conquering_Giants/
+
+**Sainthood (Bisong Taiwo)**
+
+![image](https://github.com/user-attachments/assets/d589fe01-a5c1-47c5-83cc-3ac2f505f36c)
+
+"Sainthood is a cozy strategy game about serving your community and growing your faith. Explore a miniature world and help the islanders by constructing buildings, delivering resources, and volunteering. Pray and attend to other spiritual activities as you rise to become a Saint!" https://store.steampowered.com/app/1748600/Sainthood/
+
+**To Light: Ex Umbra (Branch Games)**
+
+![image](https://github.com/user-attachments/assets/cfb8bd41-b360-4d8b-836a-8bb10e51616d)
+
+"The once thriving Kingdom of Ecclesia is teetering on the edge of collapse. The King is gone, and the Queen has turned into a ruthless tyrant. But worst of all, the Princess is plagued by darkness. Physical, tangible darkness that destroys everything it touches. When she crosses paths with a young man driven by a mysterious force, they set out to find a way to defeat the darkness, and bring peace back to the kingdom. They must travel to the farthest reaches of the world to find the way they can finally be free. They must journey To Light." https://store.steampowered.com/app/862460/To_Light_Ex_Umbra/
+
+**In His Time (TearyHand studio)**
+
+![image](https://github.com/user-attachments/assets/4ed303ce-037c-4138-bd05-f0d5ad193f43)
+
+"Enter the hauntingly beautiful shadow world of In His Time, a 2D puzzle-solving adventure game. There you will meet Olly and join him to solve puzzles throughout each step of his emotional journey of growth and self-discovery." https://store.steampowered.com/app/2361610/In_His_Time/
+
+**Dear Friend (Transcender Studios, Inc)**
+
+![image](https://github.com/user-attachments/assets/73fa8c4d-1c4e-4d05-893c-d720458df205)
+
+"Join us on this psychological and spiritual adventure in which you will have a very special friend who will guide you to successfully face your greatest challenges. Immerse yourself in this journey and discover the deepest mysteries of your character's life, make the right choices and solve the puzzles on your way to reach your final destination." https://store.steampowered.com/app/2186450/Dear_Friend/
+
   Edmund Puzzle and the Mystery of the Sacred Relics (Transcender Studios, Inc)
   Spiritual Warefare & Wisdom Tree Collection (Wisdom Tree)
   Super 3D Noah's Ark (Wisdom Tree)
