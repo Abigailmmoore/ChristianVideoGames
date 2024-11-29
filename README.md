@@ -148,6 +148,12 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 "You wake-up one morning and it seems like any other day. You look at your television and there’s nothing to watch. While checking your email it happens. BAM!!!! An angel appears in your home. The angel says that you are the Chosen of God and explains that he is going to send you to the time before the flood. You pass-out! Then you wake-up for the second time in one day, and you are in the body of a stranger. Exploring his home you find everything to be so strange; where is the light switch, why do your clothes itch so badly? Finding a door you decide to see what is on the other side. After stepping out of the door you walk out into what looks like a village. The year is 2349 B.C., you have 6 months before the flood, what do you do?" https://store.steampowered.com/app/680880/Flood_The_Prequel/
 
+**Bug & Seek (So Peculiar)** *
+
+![image](https://github.com/user-attachments/assets/9826784f-c8e8-4605-b8cc-aa161ef5d32d)
+
+"Catch 200+ real life bugs in this chill 8-bit cozy creature collector. You’ve bought the local bug zoo, abandoned after a mysterious robbery. Catch bugs that make jokes and puns, fill orders, build your collection, upgrade skills and equipment, and try to solve the Great Bug Heist." https://store.steampowered.com/app/2265310/Bug__Seek/
+
 **Exodus Vigil (BibleByte Games) (Early Access)**
 
 ![image](https://github.com/user-attachments/assets/93a4b69c-37d2-4a7d-afc8-ca14699cc158)
@@ -164,6 +170,8 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 ![image](https://github.com/user-attachments/assets/a7cc4da1-0958-4f40-8859-0d73b59998a5)
 
 "Heroes of Issachar is a city-builder / FPS hybrid. This game takes everything you love about classic city-builders and puts a crossbow in your hand to defend the kingdom you have built and extinguish the enemy from the land by raising up an army and recruiting other heroes to join the fight." https://store.steampowered.com/app/305720/Heroes_of_Issachar/
+
+* Not sure if these are explicitly "Christian", but they're made by Christian developers, anyway.
 
 ### In development:
 
@@ -221,6 +229,11 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 "Bogdan's Cross is an action-adventure game set in the tumultuous era of the Crusades. Follow the journey of Bogdan, a humble shepherd boy, as he rises to become a legendary Templar knight. Traverse stunning landscapes, uncover hidden tales and mysteries, and confront shadows of doubt and despair. While grounded in historical accuracy, the game takes creative liberties to weave a captivating fictional narrative." https://store.steampowered.com/app/2503230/Bogdans_Cross/
 
+**Closer Than You Know (So Peculiar, LLC)**
+
+![image](https://github.com/user-attachments/assets/d3f0f80a-2c89-4310-9a8c-4df18c9ae3c5)
+
+"A cozy, updated spin on the familiar point-and-click adventure games. Sam is on a big quest to save her home planet--where Hope has been outlawed. Solve puzzles and uncover the mystery in this charming adventure." https://store.steampowered.com/app/1969490/Closer_Than_You_Know/
 
 ## Mobile:
 
