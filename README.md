@@ -171,7 +171,13 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 "Heroes of Issachar is a city-builder / FPS hybrid. This game takes everything you love about classic city-builders and puts a crossbow in your hand to defend the kingdom you have built and extinguish the enemy from the land by raising up an army and recruiting other heroes to join the fight." https://store.steampowered.com/app/305720/Heroes_of_Issachar/
 
-* Not sure if these are explicitly "Christian", but they're made by Christian developers, anyway.
+**Though the Heavens Fall (Maranatha Games)**
+
+![image](https://github.com/user-attachments/assets/e1a4cdf4-9bc7-4c0b-83a4-b689dc4b3d57)
+
+"Though the Heavens Fall is a Christian game reminiscent of classic JRPG gameplay while presenting a perspective of the spiritual world using the Christian Mythos. One where God reigns supreme and though there is conflict in heavenly places, His will is imminent and unstoppable. The game while light-hearted and comedic in tone is backed by the reality that things in the spirit realm are real, our prayers have effect, and that no lesser principality will have its way forever." https://store.steampowered.com/app/2437270/Though_the_Heavens_Fall/
+
+*Not sure if these are explicitly "Christian", but they're made by Christian developers, anyway.
 
 ### In development:
 
