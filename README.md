@@ -1,4 +1,4 @@
-Disclaimer: I have not personally played many of these games, and am not necessarily recommending any of them.
+Disclaimer: I have not personally played most of these games, and am not necessarily recommending any of them. Use discretion when deciding whether to buy or play them.
 
 ## On Steam:
 
@@ -277,6 +277,26 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 ### Available
 
+Rather than list every game tagged "Christian", "Christianity", or "Bible" on itch.io, I'll just link to the tag lists.
+
+**"Christian" Tag list**
+
+<img width="1440" alt="Screenshot 2024-12-01 at 5 38 00 PM" src="https://github.com/user-attachments/assets/0be9c61a-1200-4975-8d79-8431189a897e">
+
+This tag is the best one for finding games that are actually Christian. https://itch.io/games/tag-christian
+
+**"Christianity" Tag List**
+
+<img width="1440" alt="Screenshot 2024-12-01 at 5 40 07 PM" src="https://github.com/user-attachments/assets/72064fa4-d01f-4e80-a021-e6c311983ac3">
+
+Note that not all of these titles are from a Christian perspective, and some of them are explicitly about leaving Christianity. https://itch.io/games/tag-christianity
+
+**"Bible" Tag List**
+
+<img width="1443" alt="Screenshot 2024-12-01 at 10 56 45 PM" src="https://github.com/user-attachments/assets/bf93ccf7-b167-4a62-836d-30c4e6f3173a">
+
+Again, a mix of Christian and non-Christian games. https://itch.io/games/tag-bible
+
 **Hello Lantern (Nifiy Studios)**
 
 ![image](https://github.com/user-attachments/assets/d6fdba13-31f7-417f-82e6-2545ce509375)
@@ -288,12 +308,6 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 ![image](https://github.com/user-attachments/assets/9186fd91-0911-4643-9c6b-2733547c8417)
 
 "Unlike other biblical or Christian games, LOGOS does not seek to eliminate the violent part of the Bible, on the contrary, it is intended to show the Bible for what it is: A point of controversy for some and a source of inspiration to others. Designed for Windows®, Mac OS® and Linux®, LOGOS is an independent development that took 3 years to complete; it is non-profit and was not capitalized on in sites like Kickstarter. We are still updating it!" https://tecomprendo.itch.io/logos-bible-video-game
-
-**Messenger (Lucas Câmara)**
-
-![image](https://github.com/user-attachments/assets/9d287d77-1d96-4eb6-9384-b743972bf87a)
-
-"Evil forces are tormenting the village. Be fast in defeating the support demons to kill the boss demon! Use the Sword of Spirit, the Shield of Faith, and the Boots of Peace to bring salvation to the inhabitants!" https://lucastac.itch.io/messenger
 
 ### In Development
 
