@@ -249,7 +249,7 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 
 <img width="354" alt="Screenshot 2024-11-28 at 9 51 10 PM" src="https://github.com/user-attachments/assets/4c2a705b-f13a-4c30-a813-8df8bec7697a">
 
-"Discover a world of wholesome, engaging games, captivating videos, and interactive digital comics for children aged 4-15, all in a safe and family-friendly environment. (App Store)
+"Discover a world of wholesome, engaging games, captivating videos, and interactive digital comics for children aged 4-15, all in a safe and family-friendly environment. (App Store, Google Play)
 
 **Lightgliders (Lightgliders)**
 
@@ -271,8 +271,67 @@ Disclaimer: I have not personally played many of these games, and am not necessa
 "Take control of the Genesis Exploration Squad as you guide them through the past on this narrative puzzle adventure. Kids will go on a journey with the squad through the major events of Jesus’ life and learn lessons that will last a lifetime." (App Store, Google Play)
 
 
-**GLOW: Guardian Light of the World (Morpheous)
+**GLOW: Guardian Light of the World (Morpheous)**
+
+## itch.io
+
+### Available
+
+**Hello Lantern (Nifiy Studios)**
+
+![image](https://github.com/user-attachments/assets/d6fdba13-31f7-417f-82e6-2545ce509375)
+
+"Hello lantern is an interactive story book that uniquely mixes gameplay and traditional storytelling. Follow a little girl named Fiy as she experiences her first sky lantern festival and the whimsical events that take place." https://nifiystudios.itch.io/hello-lantern
+
+**LOGOS (TeComprendo) (18 years and up)**
+
+![image](https://github.com/user-attachments/assets/9186fd91-0911-4643-9c6b-2733547c8417)
+
+"Unlike other biblical or Christian games, LOGOS does not seek to eliminate the violent part of the Bible, on the contrary, it is intended to show the Bible for what it is: A point of controversy for some and a source of inspiration to others. Designed for Windows®, Mac OS® and Linux®, LOGOS is an independent development that took 3 years to complete; it is non-profit and was not capitalized on in sites like Kickstarter. We are still updating it!" https://tecomprendo.itch.io/logos-bible-video-game
+
+**Messenger (Lucas Câmara)**
+
+![image](https://github.com/user-attachments/assets/9d287d77-1d96-4eb6-9384-b743972bf87a)
+
+"Evil forces are tormenting the village. Be fast in defeating the support demons to kill the boss demon! Use the Sword of Spirit, the Shield of Faith, and the Boots of Peace to bring salvation to the inhabitants!" https://lucastac.itch.io/messenger
+
+### In Development
+
+**Spiritual X Warfare (Devon B.) (Demo)**
+
+![image](https://github.com/user-attachments/assets/b7032db2-5146-48c8-904a-7aa48b79f1bb)
+
+"There is an underground occult in Monotheos City and their plans are to take control over the city's valuable resources. The occult has taken over half the the nation with demonic influences. But Monotheos City is the location that the occult needs to really put an end to the city's Godly influence on the other surrounding states. Because Monotheos is surrounded by some of the largest bodies of water in the nation, it is a huge asset for the Demonic Occult. The occult wants to use the water to accelerate their demonic serum agenda. They want to steal the city's landmark bible tech and apply it in advancing the ease of their own occult bibles. The city's bibles are infused with state-of-the-art technology that makes the bible easier to understand and remember for visual learners within the city. The occult leader puts his plan in motion and uses five of his demonic occult generals to steal the city's technology. The occult leader then goes after the potential Godly threats in the area to solidify his plans to take over Monotheos." https://spiritualxwarfare.itch.io/spiritual-x-warfare
+
+**Project Remixd (Nifiy Studios) (Demo)**
+
+![image](https://github.com/user-attachments/assets/40bb3988-0c3f-436e-be7b-b9d1c5663c4c)
+
+""Project Remixd" is a cyber-punk/Music themed action platformer.  You play as a DJ trying to save the city from a corrupt music deity that hypnotized the city with his music. [...] In this single-player game, the player uses the main character's unique ability to skip (teleport) to traverse terrain, battle enemies, solve puzzles, and ultimately cleanse the city of the villain's influencing music." https://nifiystudios.itch.io/project-remixd
+
+**Volare (God's Knight) (Demo)**
+
+![image](https://github.com/user-attachments/assets/6a6c4b86-6901-4f16-8e0b-9640ed55c916)
+
+"Blending the exciting action of classic space fighters, with modern flair, and emotionally resonating sound design." https://gods-knight.itch.io/volare
+
+**Oto (God's Knight) (Demo)**
+
+![image](https://github.com/user-attachments/assets/ec5889db-b4b3-4da8-85c6-c4a89fa7424c)
+
+"In the depths, but closer than you may think. Currently unable to go up, or down." https://gods-knight.itch.io/oto
+
+**Little Knight (God's Knight)**
+
+![image](https://github.com/user-attachments/assets/871131f0-d554-4da1-86d8-f7c536d10a15)
+
+"This is a little game I've been working on, and I decided I would give people the opportunity to play it as I work on it. As of now it's going to be an atmospheric action survival, puzzle horror game." https://gods-knight.itch.io/little-knight OR https://github.com/GodsKnight77/Little-Knight/tree/main
+
+**Guiding Light: Legend of the Nephylim (Brother Daniel)**
+
+![image](https://github.com/user-attachments/assets/4b119c5e-1c69-4fba-99a8-a66ac3a5d31b)
+
+"A young warrior priest named Tobias (Can be renamed by the player) is undergoing a pilgrimage to become ordained into the Holy Brotherhood of the Light. By his side is a small creature named Ruach, claiming to be sent by the Light to help guide Tobias to fulfil a role he is to play in the Light's plan to save the world from an upcoming evil threat. To this end, he wanders the countryside, helping those in need, slaying monsters, and seeking guidance from the Light as to his ultimate destiny." https://brotherdaniel.itch.io/guiding-light-legend-of-the-nephylim
 
 Say a Prayer (Gold Creek VR)
-LOGOS (TeComprendo) (18 year and up)
 # ChristianVideoGames
