@@ -247,7 +247,7 @@ Disclaimer: I have not personally played many of these games, and am not necessa
   
 **Truplay (Truplay Games)**
 
-<img width="354" alt="Screenshot 2024-11-28 at 9 51 10 PM" src="https://github.com/user-attachments/assets/4c2a705b-f13a-4c30-a813-8df8bec7697a">
+<img width="243" alt="Screenshot 2024-12-01 at 1 05 00 PM" src="https://github.com/user-attachments/assets/e28326ec-b6b3-4983-a50f-7e32766f65c4">
 
 "Discover a world of wholesome, engaging games, captivating videos, and interactive digital comics for children aged 4-15, all in a safe and family-friendly environment. (App Store, Google Play)
 
