@@ -88,6 +88,12 @@ Disclaimer: I have not personally played most of these games, and am not necessa
 
 "AREA MAN LIVES. Or does he? If you could join a radio drama already in progress, talk to the characters and interact with the environments the story painted in your mind, you might find yourself in the world of the area man. A quirky radio drama unfolds around you in VR while you do your best to keep the radio station humming along as its new DJ. You record commercials, interview callers and try your best to piece together how your actions inside the station impact your listening audience in scenarios so wild they can only live in your imagination." https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/
 
+**The Pilgrim's Progress (Elvio Lujan)**
+
+![image](https://github.com/user-attachments/assets/212b33f1-7ded-4a28-b179-353bcc6a1ab2)
+
+"Join us in "The Pilgrim's Progress," an epic journey inspired by John Bunyan's classic. Follow Christian's path to the Celestial City, exploring stunning environments, solving puzzles, engaging in strategic battles, and experiencing themes of faith, redemption, and perseverance. Support our vision!" https://store.steampowered.com/app/3071000/The_Pilgrims_Progress/
+
 **Jasper Vice: Legends Untold (Soltorch Games)**
 
 ![image](https://github.com/user-attachments/assets/99da69a0-d4b3-42b9-8231-ec1e3dda2b2a)
@@ -180,12 +186,6 @@ Disclaimer: I have not personally played most of these games, and am not necessa
 *Not sure if these are explicitly "Christian", but they're made by Christian developers, anyway.
 
 ### In development:
-
-**The Pilgrim's Progress (Elvio Lujan)** <ins>Planned Release Dec 2 2024</ins>
-
-![image](https://github.com/user-attachments/assets/212b33f1-7ded-4a28-b179-353bcc6a1ab2)
-
-"Join us in "The Pilgrim's Progress," an epic journey inspired by John Bunyan's classic. Follow Christian's path to the Celestial City, exploring stunning environments, solving puzzles, engaging in strategic battles, and experiencing themes of faith, redemption, and perseverance. Support our vision!" https://store.steampowered.com/app/3071000/The_Pilgrims_Progress/
 
 **Gate Zero (Bible X) (Demo)**
 
