@@ -165,6 +165,7 @@ Disclaimer: I have not personally played most of these games, and am not necessa
 ![image](https://github.com/user-attachments/assets/93a4b69c-37d2-4a7d-afc8-ca14699cc158)
 
 "Explore the Dark and Dangerous Temples and Tombs of Ancient Egypt in Exodus Vigil. Follow the familiar story of the Israelite Exodus from the Egyptian perspective." https://store.steampowered.com/app/1881390/Exodus_Vigil/
+
 **Adventureland XL (Clopas LLC) (Early Access)**
 
 ![image](https://github.com/user-attachments/assets/ec637ee7-0294-47a6-9beb-fd86105d6625)
