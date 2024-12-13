@@ -1,4 +1,11 @@
-Disclaimer: I have not personally played most of these games, and am not necessarily recommending any of them. Use discretion when deciding whether to buy or play them.
+*Once upon a time, not so long ago, a curious young maiden went to inquire of a wise web browser where she might find some Christian video games. The web browser explained that such games were rare and difficult to find, to the point that many believed them to be a matter of legend. The browser was, however, able to direct her to a blog studied in the subject. And so, with the knowledge she obtained from this blog, the young maiden set out on an epic quest across the internet in search of these long-lost Christian video games. This quest led her from one website to another, up search bar and down list of search results, now probing the annals of Facebook, now sifting through the libraries of YouTube. But though she found many Christian games scattered across the internet, nowhere could she find a comprehensive list of such games. And so she was inspired to create her own list, thus justifying the extensive amount of time she had ~~wasted~~ spent obtaining knowledge she might otherwise never use. The result of this inspiration is the list you see before you. It is...*
+
+# *The Big List of Christian Video Games*
+(In Progress)
+
+Disclaimer: I have not personally played most of these games, and am not necessarily recommending any of them. Please use discretion (and possibly parental guidance) when deciding whether to buy or play them.
+
+You can see a list of updates to this page [here](https://github.com/Abigailmmoore/ChristianVideoGames/deployments)
 
 ## On Steam:
 
