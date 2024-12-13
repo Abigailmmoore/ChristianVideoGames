@@ -271,8 +271,35 @@ Disclaimer: I have not personally played most of these games, and am not necessa
 
 "Take control of the Genesis Exploration Squad as you guide them through the past on this narrative puzzle adventure. Kids will go on a journey with the squad through the major events of Jesus’ life and learn lessons that will last a lifetime." (App Store, Google Play)
 
+**Journey of Grace (CHURCH OF THE NAZARENE-BRITISH ISLES SOUTH DISTRICT)**
 
-**GLOW: Guardian Light of the World (Morpheous)**
+![image](https://github.com/user-attachments/assets/110904e9-51ed-4705-bfc0-d595f282baff)
+
+"Grace is about to attend her first day of school in a new place, and she's unsure of the journey that lies before her. She is full of questions and worries. That's when Grace's mother tells her the story of her name. The Journey of Grace will teach participants about God's great grace through the story of a treacherous trek through a dense forest, up a jagged mountain, and through the darkness on the other side. Along the way, you'll meet a cast of grace-filled creatures who remind us of God's prevenient, saving, and sanctifying grace." (App Store, Google Play)
+
+**Woof's World (OMG Woof LLC)**
+
+![image](https://github.com/user-attachments/assets/0c7c94cb-8657-490f-8d38-2c4406ef9f5e)
+
+"Dive into Woof's World – a captivating RPG experience where you journey with Woof, a valiant canine hero, through the mysterious realm of Evilandia. Each level in this enchanting game mirrors one of the seven deadly sins, and it’s up to Woof to conquer these vices, reclaim sacred gems, and restore the land to its virtuous splendor." (App Store, Google Play)
+
+**David vs. Goliath - Bible Story (Rightous Tales)**
+
+![image](https://github.com/user-attachments/assets/cc4c8173-0dce-4861-9cc2-69e9990eac6b)
+
+"The epic story of David vs. Goliath from the Bible! Help David go from shepherd to hero with tons of slinging, lion fighting, and lyre practice along the way! Can you help him as he prepares to face Goliath? And, with God's timing and ways versus everyone else's? You've read the story! Now tap, tilt and swipe through it with David in this interactive story combined with mini-games! Dozens of immersive story chapters including over 100 achievements and 7 mini-games along the way. Spend hours unlocking and mastering all the challenges!" (App Store, Google Play?)
+
+**Expulsar (PX Kids Interactive, Inc.)**
+
+[626x0w.pdf](https://github.com/user-attachments/files/18118827/626x0w.pdf)
+
+"This game aims at inculcating life values through a fun means. Expulsar means to ‘eradicate’ or 'cast out' in Spanish. While avoiding the luring negative objects like Gold coins, Mirrors, Loaves of leavened bread; the player has to collect the positive objects and increase the energy. In the end, the player with the help from an assisting character must battle and defeat the seven demons of Anger, Gluttony, Impurity, Greed, Sloth, Envy, and Pride. A different demon is in each of the seven scenes." (App Store, Google Play?)
+
+**GLOW - Action RPG (Jaron Hines, The Sanet Group)**
+
+![image](https://github.com/user-attachments/assets/7996f9d6-2ff7-49ee-aca9-cdfdbf464a01)
+
+"Follow the path of the pure hearted and get to banish the forces of darkness via the wonderful Single player Hack n Slash Action RPG Game Guardian Light of The World (GLOW) – The Commandments, the first in upcoming series of Glow with first ever 3rd Person camera angles!" (App Store, Google Play)
 
 ## itch.io
 
