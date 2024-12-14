@@ -7,6 +7,16 @@ Disclaimer: I have not personally played most of these games, and am not necessa
 
 You can see a list of updates to this page [here](https://github.com/Abigailmmoore/ChristianVideoGames/deployments)
 
+**Table of Contents**
+* [On Steam](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#on-steam)
+  * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available)
+  * [In Development](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#in-development)
+* [Mobile](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#mobile)
+  * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-1)
+* [itch.io](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#itchio)
+  * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-2)
+  * [In development](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#in-development-1)
+
 ## On Steam:
 
 ### Available:
@@ -307,6 +317,24 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 ![image](https://github.com/user-attachments/assets/7996f9d6-2ff7-49ee-aca9-cdfdbf464a01)
 
 "Follow the path of the pure hearted and get to banish the forces of darkness via the wonderful Single player Hack n Slash Action RPG Game Guardian Light of The World (GLOW) – The Commandments, the first in upcoming series of Glow with first ever 3rd Person camera angles!" (App Store, Google Play)
+
+**Provider Game (NuGoon)**
+
+<img width="328" alt="Screenshot 2024-12-13 at 11 38 30 PM" src="https://github.com/user-attachments/assets/ed539c5c-441b-48df-8c15-494158a646d2" />
+
+""As God provide's for you, you provide for your people." Challenge your friends to see who can brave the “Endless Forest” the longest and collect the most resources to provide for your family!" (App Store)
+
+**Load the Ark (DayStar Media Labs)**
+
+![image](https://github.com/user-attachments/assets/f40f0e57-8948-4c03-9f29-fa95fef029df)
+
+"Load the Ark: A Noah's Ark Adventure! Join Noah on an epic journey in “Load the Ark,” a family-friendly game where you match animal pairs and load them onto the ark. Perfect for children and kids of all ages, this game brings the Biblical story of Noah’s Ark to life with a fun and educational twist." (App Store, Google Play)
+
+**Golden Sky: Christian Games**
+
+<img width="243" alt="Screenshot 2024-12-13 at 11 57 41 PM" src="https://github.com/user-attachments/assets/7058d52d-7834-499b-9574-71a1f749e710" />
+
+"Your new app of inspiring Christian mini games! Whether you are curious to discover the Christian faith or eager to share it with those around you, Golden Sky accompanies you through fun and enriching experiences. The first mini-game available at launch, The Story of Lucas, invites you to take a new look at the obstacles of life. Are you ready for the adventure?" (App Store, Google Play?)
 
 ## itch.io
 
