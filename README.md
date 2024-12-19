@@ -259,7 +259,15 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 
 "A cozy, updated spin on the familiar point-and-click adventure games. Sam is on a big quest to save her home planet--where Hope has been outlawed. Solve puzzles and uncover the mystery in this charming adventure." [https://store.steampowered.com/app/1969490/Closer_Than_You_Know/](https://store.steampowered.com/app/1969490/Closer_Than_You_Know/)
 
+**Lost in the Storm (Servants Oil)**
+
+![image](https://github.com/user-attachments/assets/3bdb2e93-04de-4039-96be-c115c02a803c)
+
+"Lost in the Storm" is a single-player adventure with mystery, action, and puzzle elements. Follow Andrew Banks, a man trapped in a coma, haunted by a tragic past. Guided by an angel, he must confront his sins and find a way back to reality to reunite with his family. Can he escape the storm within?" [https://store.steampowered.com/app/1834200/Lost_In_the_Storm/](https://store.steampowered.com/app/1834200/Lost_In_the_Storm/)
+
 ## Mobile:
+
+Note that I have not included any trivia games, word games, coloring apps, or interactive kid's Bibles here. You can find those easily enough just by searching for them. These are the harder to find, more traditional "games".
 
 ### Available:
   
