@@ -11,7 +11,7 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 * [On Steam](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#on-steam)
   * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available)
   * [In Development](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#in-development)
-  * [Christian Developed] (https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#christian-developed)
+  * [Christian Developed](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#christian-developed)
 * [Mobile](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#mobile)
   * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-1)
 * [itch.io](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#itchio)
