@@ -11,6 +11,7 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 * [On Steam](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#on-steam)
   * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available)
   * [In Development](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#in-development)
+  * [Christian Developed] (https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#christian-developed)
 * [Mobile](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#mobile)
   * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-1)
 * [itch.io](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#itchio)
@@ -44,12 +45,6 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 ![image](https://github.com/user-attachments/assets/d701374a-1060-47ee-b0ed-4e4273188259)
 
 "Anointed: DSK is a single player, 3rd person action/adventure game. As David, the player can run, climb, scale walls, swing from ropes and ride a horse on the journey through ancient Judah - using Stealth, Combat and Strategy to fulfill God's plan and save the people of Keilah from the Philistines." [https://store.steampowered.com/app/1942530/The_Anointed_David_Saves_Keilah/](https://store.steampowered.com/app/1942530/The_Anointed_David_Saves_Keilah/)
-
-**The Desolate Hope (Scott Cawthon) (Free)**
-
-![image](https://github.com/user-attachments/assets/369e0731-c5d4-414c-8a4d-0411185f37d4)
-
-"On a distant edge of an unknown planet, an abandoned structure sits in silence. Constructed by an unmanned research vessel sent from Earth, the Lun Infinus station was designed to run simulations for a five year period, exploring possibilities of human colonization in the case that Earth became uninhabitable. Developed during an age of ambition and wealth, the project was quickly abandoned when interest faded in the following years..." Contains platformer, dungeon crawler, and JRPG gameplay elements. [https://store.steampowered.com/app/298180/The_Desolate_Hope/](https://store.steampowered.com/app/298180/The_Desolate_Hope/)
 
 **FIVE: Guardians of David (Kingdom Games)**
 
@@ -98,12 +93,6 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 ![image](https://github.com/user-attachments/assets/cbcb0991-cff4-45f4-afd2-7dcf0f2b4cf9)
 
 "An immersive, narrative videogame that retells Joel Green’s 4-year fight against cancer through about two hours of poetic, imaginative gameplay that explores themes of faith, hope and love." [https://store.steampowered.com/app/419460/That_Dragon_Cancer/](https://store.steampowered.com/app/419460/That_Dragon_Cancer/)
-
-**Area Man Lives (Numinous Games) (VR)** *
-
-![image](https://github.com/user-attachments/assets/861349be-0d7c-4493-ada3-a38787a46826)
-
-"AREA MAN LIVES. Or does he? If you could join a radio drama already in progress, talk to the characters and interact with the environments the story painted in your mind, you might find yourself in the world of the area man. A quirky radio drama unfolds around you in VR while you do your best to keep the radio station humming along as its new DJ. You record commercials, interview callers and try your best to piece together how your actions inside the station impact your listening audience in scenarios so wild they can only live in your imagination." [https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/](https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/)
 
 **The Pilgrim's Progress (Elvio Lujan)**
 
@@ -171,12 +160,6 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 
 "You wake-up one morning and it seems like any other day. You look at your television and there’s nothing to watch. While checking your email it happens. BAM!!!! An angel appears in your home. The angel says that you are the Chosen of God and explains that he is going to send you to the time before the flood. You pass-out! Then you wake-up for the second time in one day, and you are in the body of a stranger. Exploring his home you find everything to be so strange; where is the light switch, why do your clothes itch so badly? Finding a door you decide to see what is on the other side. After stepping out of the door you walk out into what looks like a village. The year is 2349 B.C., you have 6 months before the flood, what do you do?" [https://store.steampowered.com/app/680880/Flood_The_Prequel/](https://store.steampowered.com/app/680880/Flood_The_Prequel/)
 
-**Bug & Seek (So Peculiar)** *
-
-![image](https://github.com/user-attachments/assets/9826784f-c8e8-4605-b8cc-aa161ef5d32d)
-
-"Catch 200+ real life bugs in this chill 8-bit cozy creature collector. You’ve bought the local bug zoo, abandoned after a mysterious robbery. Catch bugs that make jokes and puns, fill orders, build your collection, upgrade skills and equipment, and try to solve the Great Bug Heist." [https://store.steampowered.com/app/2265310/Bug__Seek/](https://store.steampowered.com/app/2265310/Bug__Seek/)
-
 **Exodus Vigil (BibleByte Games) (Early Access)**
 
 ![image](https://github.com/user-attachments/assets/93a4b69c-37d2-4a7d-afc8-ca14699cc158)
@@ -200,8 +183,6 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 ![image](https://github.com/user-attachments/assets/e1a4cdf4-9bc7-4c0b-83a4-b689dc4b3d57)
 
 "Though the Heavens Fall is a Christian game reminiscent of classic JRPG gameplay while presenting a perspective of the spiritual world using the Christian Mythos. One where God reigns supreme and though there is conflict in heavenly places, His will is imminent and unstoppable. The game while light-hearted and comedic in tone is backed by the reality that things in the spirit realm are real, our prayers have effect, and that no lesser principality will have its way forever." [https://store.steampowered.com/app/2437270/Though_the_Heavens_Fall/](https://store.steampowered.com/app/2437270/Though_the_Heavens_Fall/)
-
-*Not sure if these are explicitly "Christian", but they're made by Christian developers, anyway.
 
 ### In development:
 
@@ -259,11 +240,32 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 
 "A cozy, updated spin on the familiar point-and-click adventure games. Sam is on a big quest to save her home planet--where Hope has been outlawed. Solve puzzles and uncover the mystery in this charming adventure." [https://store.steampowered.com/app/1969490/Closer_Than_You_Know/](https://store.steampowered.com/app/1969490/Closer_Than_You_Know/)
 
-**Lost in the Storm (Servants Oil)**
+**Lost in the Storm (Servants Oil) (Demo)**
 
 ![image](https://github.com/user-attachments/assets/3bdb2e93-04de-4039-96be-c115c02a803c)
 
 "Lost in the Storm" is a single-player adventure with mystery, action, and puzzle elements. Follow Andrew Banks, a man trapped in a coma, haunted by a tragic past. Guided by an angel, he must confront his sins and find a way back to reality to reunite with his family. Can he escape the storm within?" [https://store.steampowered.com/app/1834200/Lost_In_the_Storm/](https://store.steampowered.com/app/1834200/Lost_In_the_Storm/)
+
+### Christian Developed
+May not contain any clearly "Christian" content, but developed by Christian developers.
+
+**The Desolate Hope (Scott Cawthon) (Free)**
+
+![image](https://github.com/user-attachments/assets/369e0731-c5d4-414c-8a4d-0411185f37d4)
+
+"On a distant edge of an unknown planet, an abandoned structure sits in silence. Constructed by an unmanned research vessel sent from Earth, the Lun Infinus station was designed to run simulations for a five year period, exploring possibilities of human colonization in the case that Earth became uninhabitable. Developed during an age of ambition and wealth, the project was quickly abandoned when interest faded in the following years..." Contains platformer, dungeon crawler, and JRPG gameplay elements. [https://store.steampowered.com/app/298180/The_Desolate_Hope/](https://store.steampowered.com/app/298180/The_Desolate_Hope/)
+
+**Area Man Lives (Numinous Games) (VR)**
+
+![image](https://github.com/user-attachments/assets/861349be-0d7c-4493-ada3-a38787a46826)
+
+"AREA MAN LIVES. Or does he? If you could join a radio drama already in progress, talk to the characters and interact with the environments the story painted in your mind, you might find yourself in the world of the area man. A quirky radio drama unfolds around you in VR while you do your best to keep the radio station humming along as its new DJ. You record commercials, interview callers and try your best to piece together how your actions inside the station impact your listening audience in scenarios so wild they can only live in your imagination." [https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/](https://store.steampowered.com/app/1237780/AREA_MAN_LIVES/)
+
+**Bug & Seek (So Peculiar)** *
+
+![image](https://github.com/user-attachments/assets/9826784f-c8e8-4605-b8cc-aa161ef5d32d)
+
+"Catch 200+ real life bugs in this chill 8-bit cozy creature collector. You’ve bought the local bug zoo, abandoned after a mysterious robbery. Catch bugs that make jokes and puns, fill orders, build your collection, upgrade skills and equipment, and try to solve the Great Bug Heist." [https://store.steampowered.com/app/2265310/Bug__Seek/](https://store.steampowered.com/app/2265310/Bug__Seek/)
 
 ## Mobile:
 
@@ -286,7 +288,6 @@ Note that I have not included any trivia games, word games, coloring apps, or in
 **Guardians of Ancora (Scripture Union)**
 
 ![image](https://github.com/user-attachments/assets/3887082b-4842-4033-9ad3-9e9018ec01fa)
-
 
 "Prepare for an epic adventure as you explore the amazing stories of the Bible. Choose your Guardian hero, then train and learn the ways of the Guardians before setting off into the world of Ancora. Explore the ancient world of the Bible, meet Jesus and return light to the city of Ancora. Guardians of Ancora is a fun, epic parkour adventure game where players have to run, jump, roll and slide their way through stories of the Bible where they’ll meet Jesus and experience the miracles he performed." (App Store, Google Play)
 
