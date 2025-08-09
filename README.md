@@ -15,9 +15,9 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 * [Mobile](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#mobile)
   * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-1)
 * [Switch](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#switch)
-  * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-1)
-* [itch.io](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#itchio)
   * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-2)
+* [itch.io](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#itchio)
+  * [Available](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#available-3)
   * [In development](https://github.com/Abigailmmoore/ChristianVideoGames/blob/main/README.md#in-development-1)
 
 ## On Steam:
@@ -393,13 +393,13 @@ Note that I have not included any trivia games, word games, coloring apps, or in
 
 "Load the Ark: A Noah's Ark Adventure! Join Noah on an epic journey in “Load the Ark,” a family-friendly game where you match animal pairs and load them onto the ark. Perfect for children and kids of all ages, this game brings the Biblical story of Noah’s Ark to life with a fun and educational twist." (App Store, Google Play)
 
-**Super Pionero Christian Biblie**
+**Super Pionero Christian Biblie (Visión Expresiva)**
 
 <img width="1024" height="577" alt="image" src="https://github.com/user-attachments/assets/21670b82-eb41-44ed-baa4-d0e161a0380a" />
 
-"Join Maxi and the other pioneers in the fantastic adventures of being an Explorer of the King. Where you should perform challenging actions and searches to collect as many stars as possible. But, I will not be so easy, you will be challenged by insects, snakes, arachnids, worms, bats and even the same evil." (Google Play)
+"Join Maxi and the other pioneers in the fantastic adventures of being an Explorer of the King. Where you should perform challenging actions and searches to collect as many stars as possible. But, I will not be so easy, you will be challenged by insects, snakes, arachnids, worms, bats and even the same evil." (App Store, Google Play)
 
-**Golden Sky: Christian Games**
+**Golden Sky: Christian Games (Jeireme)**
 
 <img width="243" alt="Screenshot 2024-12-13 at 11 57 41 PM" src="https://github.com/user-attachments/assets/7058d52d-7834-499b-9574-71a1f749e710" />
 
