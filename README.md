@@ -267,6 +267,58 @@ May not contain any clearly "Christian" content, but developed by Christian deve
 
 "Catch 200+ real life bugs in this chill 8-bit cozy creature collector. You’ve bought the local bug zoo, abandoned after a mysterious robbery. Catch bugs that make jokes and puns, fill orders, build your collection, upgrade skills and equipment, and try to solve the Great Bug Heist." [https://store.steampowered.com/app/2265310/Bug__Seek/](https://store.steampowered.com/app/2265310/Bug__Seek/)
 
+## Switch:
+
+### Available:
+
+**Adam's Venture: Origins (Vertigo Games)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/e736079a-0241-4505-ba9b-d0fbe56a6a9a" />
+
+"Start your adventure in Adam’s Venture: Origins. Set in the roaring 20’s, you play as explorer Adam Venture and go on a journey to unravel the secret of Eden. Together with your companion Evelyn, you explore ancient ruins and solve ingenious puzzles to find mysterious locales. As you travel to unique locations, you’re opposed by the evil Clairvaux company, who’s intentions for exploring artifacts could unleash chaos around the world." [https://www.nintendo.com/us/store/products/adams-venture-origins-switch/](https://www.nintendo.com/us/store/products/adams-venture-origins-switch/)
+
+**Synaxarion: Acts Part 1 (Ignatios Productions, L.L.C.)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/1040c302-c192-4520-8e9d-22734445415d" />
+
+"Starting from the Crucifixion of Christ, you play as a disciple of Christ and witness key events in the early Church. ‘Synaxarion: Acts Part 1’ takes place during a portion of the Biblical Book of Acts that is enriched with additional history and tradition from the Synaxarion." [https://www.nintendo.com/us/store/products/synaxarion-acts-part-1-switch/](https://www.nintendo.com/us/store/products/synaxarion-acts-part-1-switch/)
+
+**Synaxarion Christian Stories: Great Martyr Christina of Tyre (Ignatios Productions, L.L.C.)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/2020814a-79d6-49de-91fc-66fab665c8f8" />
+
+"In Tyre, 200 A.D., the young Christina was locked in a tower by her father. Gazing out at the magnificent world outside, she sought the True Creator of the Universe, and He revealed Himself to her. This is her story. In this Synaxarion installment, explore Tyre to complete quests, find lost items, and watch the story of Christina the Great Martyr unfold." [https://www.nintendo.com/us/store/products/synaxarion-christian-stories-great-martyr-christina-of-tyre-switch/](https://www.nintendo.com/us/store/products/synaxarion-christian-stories-great-martyr-christina-of-tyre-switch/)
+
+**Synaxarion Christian Stories: Holy Martyr Neophytos (Ignatios Productions, L.L.C.)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/34f5dc56-2727-4dc1-a3cd-080cde9bbd29" />
+
+"Active around 290 A.D., a twelve-year-old during the fierce government of Maximos in Nicaea, Saint Neophytos the Holy Martyr worked many wonders and underwent a brutal martyrdom, putting his torturers to shame. This is his story." [https://www.nintendo.com/us/store/products/synaxarion-christian-stories-holy-martyr-neophytos-switch/](https://www.nintendo.com/us/store/products/synaxarion-christian-stories-holy-martyr-neophytos-switch/)
+
+**Synaxarion Christian Stories: Holy Martyr Savvas the Goth (Ignatios Productions, L.L.C.)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/e5661410-11d8-4c6c-898b-8c44f926d586" />
+
+"Born in 334, Savvas the Goth underwent fierce persecution as a Christian. This is his story." [https://www.nintendo.com/us/store/products/synaxarion-christian-stories-holy-martyr-savvas-the-goth-switch/](https://www.nintendo.com/us/store/products/synaxarion-christian-stories-holy-martyr-savvas-the-goth-switch/)
+
+**Synaxarion: Great Martyr Theodore the Tyro (Ignatios Productions, L.L.C.)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/b06dd647-53b4-4f93-912b-2c6fda30cc86" />
+
+"Holy Great Martyr Theodore the Tyro (or Theodore the Recruit) lived in the early 300s. This Synaxarion will step through his story as it is known today. It is a visual novel that will allow you to experience the story of Saint Theodore in a graphical setting. As you progress through the story, you will come across different levels to explore to collect holy items and lost treasures." [https://www.nintendo.com/us/store/products/synaxarion-great-martyr-theodore-the-tyro-switch/](https://www.nintendo.com/us/store/products/synaxarion-great-martyr-theodore-the-tyro-switch/)
+
+**8th MILLENNIUM: WAR AGAINST THE PAGAN GODS (Ignatios Productions, L.L.C.)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/42817398-9a58-4b6f-97e8-618a5a71cbd0" />
+
+"Nikolai must fight to bury his darkness when he confronts the ruthless power of a dragon seeking to entrap him with visions of his past. Explore the dragon's kingdom, clear elusive dungeons, and power up to smash your old idols and take down this fierce foe." [https://www.nintendo.com/us/store/products/8th-millennium-war-against-the-pagan-gods-switch/](https://www.nintendo.com/us/store/products/8th-millennium-war-against-the-pagan-gods-switch/)
+
+**The Last Dragon Slayer (Ignatios Productions, L.L.C.)**
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/ac99d2ba-9044-447d-b11d-4c278ff0f9bb" />
+
+"Four Heroes arrive on the shores of Baelor, a Kingdom ravaged by the tyrannic rule of a Dragon. In order to defeat this Pagan Idol, you'll first need to scour the deep depths of mysterious dungeons, labyrinthic caves, and lush terrains. Team up in Local Co-Op gameplay! Find secrets, collect upgrades, and power up on your journey to become the Last Dragon Slayer!" [https://www.nintendo.com/us/store/products/the-last-dragon-slayer-switch/](https://www.nintendo.com/us/store/products/the-last-dragon-slayer-switch/)
+
 ## Mobile:
 
 Note that I have not included any trivia games, word games, coloring apps, or interactive kid's Bibles here. You can find those easily enough just by searching for them. These are the harder to find, more traditional "games".
@@ -338,6 +390,12 @@ Note that I have not included any trivia games, word games, coloring apps, or in
 ![image](https://github.com/user-attachments/assets/f40f0e57-8948-4c03-9f29-fa95fef029df)
 
 "Load the Ark: A Noah's Ark Adventure! Join Noah on an epic journey in “Load the Ark,” a family-friendly game where you match animal pairs and load them onto the ark. Perfect for children and kids of all ages, this game brings the Biblical story of Noah’s Ark to life with a fun and educational twist." (App Store, Google Play)
+
+**Super Pionero Christian Biblie**
+
+<img width="1024" height="577" alt="image" src="https://github.com/user-attachments/assets/21670b82-eb41-44ed-baa4-d0e161a0380a" />
+
+"Join Maxi and the other pioneers in the fantastic adventures of being an Explorer of the King. Where you should perform challenging actions and searches to collect as many stars as possible. But, I will not be so easy, you will be challenged by insects, snakes, arachnids, worms, bats and even the same evil." (Google Play)
 
 **Golden Sky: Christian Games**
 
