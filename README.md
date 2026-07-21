@@ -48,6 +48,12 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 
 "Anointed: DSK is a single player, 3rd person action/adventure game. As David, the player can run, climb, scale walls, swing from ropes and ride a horse on the journey through ancient Judah - using Stealth, Combat and Strategy to fulfill God's plan and save the people of Keilah from the Philistines." [https://store.steampowered.com/app/1942530/The_Anointed_David_Saves_Keilah/](https://store.steampowered.com/app/1942530/The_Anointed_David_Saves_Keilah/)
 
+**The Bloody Cross (Living Bones) (Free)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3cb4c1d-7827-4271-8e27-52f276ce5c5c" />
+
+"The Bloody Cross is a short, narrative-driven top-down game with horror elements, exploring the weight of sin, guilt, and redemption through a Christian lens. You play as a wanderer climbing a mountain that represents moral achievement—only to be met with temptation, failure, and spiritual struggle at every turn. Along the way, you encounter others like you, including Jesus himself, who offers forgiveness and calls you to follow him… even unto the cross." (MATURE CONTENT) [https://store.steampowered.com/app/3606450/The_Bloody_Cross/](https://store.steampowered.com/app/3606450/The_Bloody_Cross/)
+
 **FIVE: Guardians of David (Kingdom Games)**
 
 ![image](https://github.com/user-attachments/assets/4f73d1e8-10da-45bb-9fb3-0ec9f45904c7)
@@ -155,6 +161,18 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 ![image](https://github.com/user-attachments/assets/48a4affb-b50f-4078-9759-e395b0558bd6)
 
 "It's been a long journey. In just a few days, the ark doors will open and Noah, his family & the animals will be back on dry land. But the animals have become a bit restless and are out of their cages. Camels, giraffes, monkeys, kangaroos and more are wandering throughout the corridors of the ark. As Noah, it's your job to regain order & get the animals to sleep until you leave the ark. Your only tool to accomplish this is the food you brought aboard the ark. Can it be done? You bet! But how?" [https://store.steampowered.com/app/371180/Super_3D_Noahs_Ark/](https://store.steampowered.com/app/371180/Super_3D_Noahs_Ark/)
+
+**Catechumen (N'Lightning Software Development)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45a62bfc-d568-4be0-9c99-cd3deb209ffe" />
+
+"171 A.D., a great evil lurks in the shadows of ancient Rome, one that corrupts the souls of man and gives shape to the will of demons. As an initiate into the Realm of Sacred Mysteries, you have learned your mentor has been taken along with other members of your faithful brethren. The challenge for you is to confront the horrors of the labyrinthine catacombs that are located beneath the city where they have been imprisoned as victims of a sinister conspiracy. Corruption, possession, and evil await you, however, divinity will bestow upon you a blessed arsenal that will bring your numerous opponents to their knees. By these mighty powers, restore these tormented souls and bring light into the darkness. Steel your resolve and challenge immortal enemies as you dive deeper into the depths, to the very brink of hell and damnation." [https://store.steampowered.com/app/3319580/Catechumen/](https://store.steampowered.com/app/3319580/Catechumen/)
+
+**Ominous Horizons: A Paladin's Calling (N'Lightning Software Development)**
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f616a222-0b2b-478c-a869-e1b59fe0e564" />
+
+"Satan, evil incarnate, has undertaken the nefarious deed of stealing the Gutenberg Bible, a book destined to be copied by the newly invented printing press and spread across the known world. This alteration of events has allowed evil to clutch ever tighter and has kept the word of the Bible from stirring mankind toward its message. It falls to you, a noble Paladin, to undertake the quest to retrieve this book and to keep the darkness at bay. In this quest, you will explore complex dungeons that are filled with ancient puzzles left behind to challenge your intellect. Your quest will span many worldwide locations such as under the Sphinx, in Scottish castles, and inside Mayan ruins, all filled with hidden chambers and secrets." [https://store.steampowered.com/app/3319590/Ominous_Horizons_A_Paladins_Calling/?curator_clanid=45288160](https://store.steampowered.com/app/3319590/Ominous_Horizons_A_Paladins_Calling/?curator_clanid=45288160)
 
 **Flood: The Prequel (Alkain Studios LLC)**
 
@@ -268,6 +286,25 @@ May not contain any clearly "Christian" content, but developed by Christian deve
 ![image](https://github.com/user-attachments/assets/9826784f-c8e8-4605-b8cc-aa161ef5d32d)
 
 "Catch 200+ real life bugs in this chill 8-bit cozy creature collector. You’ve bought the local bug zoo, abandoned after a mysterious robbery. Catch bugs that make jokes and puns, fill orders, build your collection, upgrade skills and equipment, and try to solve the Great Bug Heist." [https://store.steampowered.com/app/2265310/Bug__Seek/](https://store.steampowered.com/app/2265310/Bug__Seek/)
+
+**High Fructose (Chazak Games)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5574eb22-4150-4bd0-8fe9-55f801a81c14" />
+
+"A high-speed roguelite FPS where movement rules the battlefield. Wall-running, dashing, double-jumping fluid movement meets handcrafted and procedurally generated combat arenas. You are the Fox. In a world of fruit corrupted by demonic forces, slice, smash, and blast your way through." [https://store.steampowered.com/app/2506550/High_Fructose/](https://store.steampowered.com/app/2506550/High_Fructose/)
+
+**Black Hole Fishing (SDG Games)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/576a666f-89fc-487a-83c6-18d5a019b45e" />
+
+"Black Hole Fishing is an incremental game about catching absurd numbers of fish using a black hole. Suck fish straight out of the pond, automate restocking and perform questionable fish science. Upgrade it all. Repeat." [https://store.steampowered.com/app/3667390/Black_Hole_Fishing/](https://store.steampowered.com/app/3667390/Black_Hole_Fishing/)
+
+**Amy Hates Robots (Rogue Robin Studios)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7b20981-49e8-47cc-b566-fc5149587baa" />
+
+"An action roguelike where toasters, telephones, and trash cans have come alive and want you dead. Build your gun from a set of conditional bonuses, triggering them strategically as you battle through deadly arenas. Make friends with quirky allies as you uncover an apocalyptic scheme." [https://store.steampowered.com/app/3448830/Amy_Hates_Robots/](https://store.steampowered.com/app/3448830/Amy_Hates_Robots/)
+
 
 ## Switch:
 
