@@ -138,6 +138,12 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 
 "Enter the hauntingly beautiful shadow world of In His Time, a 2D puzzle-solving adventure game. There you will meet Olly and join him to solve puzzles throughout each step of his emotional journey of growth and self-discovery." [https://store.steampowered.com/app/2361610/In_His_Time/](https://store.steampowered.com/app/2361610/In_His_Time/)
 
+**Esau's World (The Good Trash)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3191d8a-c644-432f-a720-be7673c7bca2" />
+
+"Esau's World is the puzzle game about controlling two people at once. Plan what Esau will do beforehand then synchronize your actions to clear puzzles! Crash into the magical world of your brother Esau, where he's a god... a fallen god. Free Esau from his inner demons, and break out of Esau's World!" [https://store.steampowered.com/app/2902210/Esaus_World/](https://store.steampowered.com/app/2902210/Esaus_World/)
+
 **Dear Friend (Transcender Studios, Inc)**
 
 ![image](https://github.com/user-attachments/assets/73fa8c4d-1c4e-4d05-893c-d720458df205)
@@ -174,6 +180,12 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 
 "Satan, evil incarnate, has undertaken the nefarious deed of stealing the Gutenberg Bible, a book destined to be copied by the newly invented printing press and spread across the known world. This alteration of events has allowed evil to clutch ever tighter and has kept the word of the Bible from stirring mankind toward its message. It falls to you, a noble Paladin, to undertake the quest to retrieve this book and to keep the darkness at bay. In this quest, you will explore complex dungeons that are filled with ancient puzzles left behind to challenge your intellect. Your quest will span many worldwide locations such as under the Sphinx, in Scottish castles, and inside Mayan ruins, all filled with hidden chambers and secrets." [https://store.steampowered.com/app/3319590/Ominous_Horizons_A_Paladins_Calling/?curator_clanid=45288160](https://store.steampowered.com/app/3319590/Ominous_Horizons_A_Paladins_Calling/?curator_clanid=45288160)
 
+**Mr. Mueller's Grand Experiment (Scott Tipton)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/328b1de9-f3d9-490e-aee7-d128db9a65e6" />
+
+"In an engrossing interactive novel, live as the assistant to a remarkable historical figure: George Mueller, a man who witnessed orphans dying young in the streets of 1830's England and decided he would care for them, no matter the cost." [https://store.steampowered.com/app/2730790/Mr_Muellers_Grand_Experiment/](https://store.steampowered.com/app/2730790/Mr_Muellers_Grand_Experiment/)
+
 **Flood: The Prequel (Alkain Studios LLC)**
 
 ![image](https://github.com/user-attachments/assets/dfd69682-6255-4d84-a46b-ab6bf7960ba5)
@@ -185,6 +197,12 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 ![image](https://github.com/user-attachments/assets/93a4b69c-37d2-4a7d-afc8-ca14699cc158)
 
 "Explore the Dark and Dangerous Temples and Tombs of Ancient Egypt in Exodus Vigil. Follow the familiar story of the Israelite Exodus from the Egyptian perspective." [https://store.steampowered.com/app/1881390/Exodus_Vigil/](https://store.steampowered.com/app/1881390/Exodus_Vigil/)
+
+**Nomadoss Chronicles (PGP) (Early Access)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3570e007-bf56-4aec-819b-bfb0db983c51" />
+
+"A Souls Light-style adventure game. Develop your character, defeat bosses, and hunt demons in this game set in the universe of the French manga, Les Chroniques des Nomadoss. With light, we chase away darkness; with the power of God, we chase away demons." [https://store.steampowered.com/app/4155290/Nomadoss_Chronicles/](https://store.steampowered.com/app/4155290/Nomadoss_Chronicles/)
 
 **Adventureland XL (Clopas LLC) (Early Access)**
 
@@ -223,6 +241,18 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 ![image](https://github.com/user-attachments/assets/a95de194-0cdb-4bf3-a7f7-ae6eac2eb0f1)
 
 "Cede is a Strategic Action-RPG modernized by a unique mechanic called Combat Farming. Dive into the shattered pieces of your planet with 3 additional friends online, burst swarms of foes into seeds, and transform them into vegetation known as “changers”. Synchronize with your squad building the best loadouts for optimal changer benefits!" [https://store.steampowered.com/app/947520/Cede/](https://store.steampowered.com/app/947520/Cede/)
+
+**The Canon Keeper (F. D. Long Jr. Studios) (Demo)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8757fa09-e5a0-4a70-ad42-d2744a5061de" />
+
+"A dark theological inspection game where you examine smuggled Scripture fragments, compare verses, uncover altered or fabricated passages, and decide what belongs in the Bible being rebuilt by the resistance." [https://store.steampowered.com/app/4965650/The_Canon_Keeper/](https://store.steampowered.com/app/4965650/The_Canon_Keeper/)
+
+**The Great Hebrew Rescue (Anointed Arcade) (Demo)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ad5376e-3cbc-4f96-983a-e5e80df572da" />
+
+"The Great Hebrew Rescue is a 2D action platformer with puzzle elements, hack and slash your way through ancient forces as Abram the Hebrew. Solve Riddles, answer questions, complete quests, level up! Craft your supplies and master movement as you navigate your way through ancient Canaan." [https://store.steampowered.com/app/4547090/The_Great_Hebrew_Rescue/](https://store.steampowered.com/app/4547090/The_Great_Hebrew_Rescue/)
 
 **Twilight Explorers (Faithdrawn studios)**
 
@@ -266,6 +296,12 @@ You can see a list of updates to this page [here](https://github.com/Abigailmmoo
 
 "Lost in the Storm" is a single-player adventure with mystery, action, and puzzle elements. Follow Andrew Banks, a man trapped in a coma, haunted by a tragic past. Guided by an angel, he must confront his sins and find a way back to reality to reunite with his family. Can he escape the storm within?" [https://store.steampowered.com/app/1834200/Lost_In_the_Storm/](https://store.steampowered.com/app/1834200/Lost_In_the_Storm/)
 
+**Ekron (True Vine Interactive) (Demo)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/711a6986-ce10-4565-89ce-1f577bb0818a" />
+
+"A first-person myst-like exploration adventure. Awaken on a mysterious island that blends puzzles with an enigmatic narrative waiting to be unraveled. Explore an abandoned civilization and uncover a story that challenges the very fabric of time." [https://store.steampowered.com/app/3252290/Ekron/](https://store.steampowered.com/app/3252290/Ekron/)
+
 ### Christian Developed
 May not contain any clearly "Christian" content, but developed by Christian developers.
 
@@ -274,6 +310,12 @@ May not contain any clearly "Christian" content, but developed by Christian deve
 ![image](https://github.com/user-attachments/assets/369e0731-c5d4-414c-8a4d-0411185f37d4)
 
 "On a distant edge of an unknown planet, an abandoned structure sits in silence. Constructed by an unmanned research vessel sent from Earth, the Lun Infinus station was designed to run simulations for a five year period, exploring possibilities of human colonization in the case that Earth became uninhabitable. Developed during an age of ambition and wealth, the project was quickly abandoned when interest faded in the following years..." Contains platformer, dungeon crawler, and JRPG gameplay elements. [https://store.steampowered.com/app/298180/The_Desolate_Hope/](https://store.steampowered.com/app/298180/The_Desolate_Hope/)
+
+**S.O.R.N. (Sentinel Games) (Free)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c12c6a6a-7f9b-480f-820f-e12f84ba6f90" />
+
+"Glide, fly, and blast your way through Haven's facilities to discover the truth while facing friends and foes of your past along the way." [https://store.steampowered.com/app/4606740/SORN/](https://store.steampowered.com/app/4606740/SORN/)
 
 **Area Man Lives (Numinous Games) (VR)**
 
@@ -305,6 +347,17 @@ May not contain any clearly "Christian" content, but developed by Christian deve
 
 "An action roguelike where toasters, telephones, and trash cans have come alive and want you dead. Build your gun from a set of conditional bonuses, triggering them strategically as you battle through deadly arenas. Make friends with quirky allies as you uncover an apocalyptic scheme." [https://store.steampowered.com/app/3448830/Amy_Hates_Robots/](https://store.steampowered.com/app/3448830/Amy_Hates_Robots/)
 
+**and Roger (TearyHand Studio)**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a4358a6-8259-47e9-b980-64d0986f312a" />
+
+"It was a morning like all others, until she realized her dad wasn't home. In his place, a stranger who speaks nonsense and insists she "takes her medicine". Who is he? Where is dad?" [https://store.steampowered.com/app/3308870/and_Roger/](https://store.steampowered.com/app/3308870/and_Roger/)
+
+**Look to the Birds (Soltorch Games)**
+
+<img width="1914" height="1080" alt="image" src="https://github.com/user-attachments/assets/c356c43b-1a60-4ea4-b8ff-c5817e31815f" />
+
+"A cozy first-person birdwatching game about slowing down, noticing nature, and finding peace in small moments. Photograph 30+ bird species across five hand-crafted dioramas and fill your journal as you travel through the Canadian Maritimes." [https://store.steampowered.com/app/4162670/Look_to_the_Birds/](https://store.steampowered.com/app/4162670/Look_to_the_Birds/)
 
 ## Switch:
 
@@ -441,6 +494,13 @@ Note that I have not included any trivia games, word games, coloring apps, or in
 <img width="243" alt="Screenshot 2024-12-13 at 11 57 41 PM" src="https://github.com/user-attachments/assets/7058d52d-7834-499b-9574-71a1f749e710" />
 
 "Your new app of inspiring Christian mini games! Whether you are curious to discover the Christian faith or eager to share it with those around you, Golden Sky accompanies you through fun and enriching experiences. The first mini-game available at launch, The Story of Lucas, invites you to take a new look at the obstacles of life. Are you ready for the adventure?" (App Store, Google Play?)
+
+**The Way (Devbymarc)**
+
+<img width="1052" height="485" alt="image" src="https://github.com/user-attachments/assets/e7597aff-739e-43b2-affc-67c8132f344d" />
+
+"The Path to Salvation Starts Here. The Way isn’t just a game — it’s a tool designed to share the message of salvation through Christ Jesus." (Google Play)
+
 
 ## itch.io
 
